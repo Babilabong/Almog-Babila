@@ -12,6 +12,6 @@ Software Developer | Backend & Full-Stack | AI Enthusiast
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,java,python,js,nodejs,react,swift,aws,git,linux)](https://skillicons.dev)
 
 ### 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Babilabong&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Babilabong&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
